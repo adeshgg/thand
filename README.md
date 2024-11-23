@@ -38,7 +38,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 
 ## Roadmap
 
- - [ ] Create Login UI
+ - [X] Create Login UI
  - [ ] Create post schema
  - [ ] Create endpoints
  - [ ] Create posts creataion and updation UI
